@@ -1,7 +1,4 @@
 
-Memory updated
-Here is the updated and complete README.md file with the new details:
-
 StarkStories
 StarkStories is an innovative decentralized application (Dapp) where writers can publish stories on-chain, and readers can purchase and support their favorite authors. Writers can submit completed stories or chapter-by-chapter updates, engaging readers with dynamic, gamified elements and collectible NFTs tied to story achievements. This project invites contributors to help build the future of storytelling on blockchain!
 
